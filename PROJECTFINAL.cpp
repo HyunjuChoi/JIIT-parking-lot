@@ -220,7 +220,7 @@ menu();
 
 void menu()
 {
-    cout<<"*******************************Welcome to DLF Mall Parking*******************************"<<endl;
+    cout<<"*******************************Welcome to JIIT Parking*******************************"<<endl;
 
     int n;
 
